@@ -4,6 +4,7 @@ public class Test {
         System.out.println("演示推送push");
         System.out.println("演示拉取pull");
         System.out.println("演示推送push2");
+        System.out.println("演示拉取pull2");
         
     }
 }
